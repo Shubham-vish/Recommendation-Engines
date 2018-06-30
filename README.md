@@ -1,5 +1,5 @@
 # Recommendation-Engines
-# Implemented different Recommendation Engine models on Collaborative filtering and Association based algorithms.
+##### Implemented different Recommendation Engine models on Collaborative filtering and Association based algorithms.
 
 1 - Collaborative Filtering based on Nearest Neighbors using Hamming distance.
 2 - Collaborative Filtering based on Nearest Neighbors using Pearson's correlation.
